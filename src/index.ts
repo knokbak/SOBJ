@@ -10,6 +10,11 @@
  * 
  */
 
+// This project's contributors stand with Ukraine:
+//   - Project HOPE: https://bit.ly/3LhDk9D
+//   - Run: npm i withukraine@1.0.1
+require('withukraine');
+
 import { sign, signSync, verify, verifySync } from './lib/Base';
 import { HashingAlgorithm, EncryptionAlgorithm } from './util/Constants';
 

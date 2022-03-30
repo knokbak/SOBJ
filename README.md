@@ -1,3 +1,6 @@
+[![Huntr](https://cdn.huntr.dev/huntr_security_badge_mono.svg)](https://huntr.dev)
+
+
 ## Signed OBJects
 Signed Objects (or "SOBJ") are a way to store data in untrusted environments whilst still being able to verify the data was signed by the correct source. You can even encrypt the data after signing it to ensure it doesn't get into the wrong hands.
 
